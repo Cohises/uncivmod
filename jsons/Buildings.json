@@ -68,6 +68,17 @@
         ]
     },
     {
+        "name": "99999+ Food",
+        "cost": 1000,
+        "hurryCostModifier": 0,
+        "maintenance": 0,
+        "uniques": [ "Can be purchased for [0] [Food] [in all cities]",
+            "Consumes [1] [Admission]",
+            "Provides [1] [Admission]",
+            "[99999]+ [Food] [in this city]"
+        ]
+    },
+    {
         "name": "1000x Science",
         "cost": 1000,
         "hurryCostModifier": 0,
